@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c411117f154a7b4d9f21acfd99f8b51
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startNoodle: {instanceID: 0}
+  - currentNoodle: {instanceID: 0}
+  - badPlacementSound: {fileID: 8300000, guid: b0ccba4a59ef6594bb56e3b117700c3a, type: 3}
+  - congratsSound: {fileID: 8300000, guid: f5f364f5d1775234fb5012be3b6ce54b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
